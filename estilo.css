@@ -1,0 +1,48 @@
+style#titulo, .subtitulo, .secos, .preparo1, .preparo2, .molhados, .ingredientes, .rodape, .cabecalho{
+    color: rgb(83, 83, 83);
+    font-family: Arial;
+    padding: 0cm;
+    text-transform: capitalize;
+
+}
+
+.subtitulo{
+    color: rgb(49, 49, 49);
+    font-style: italic;
+    text-transform: capitalize;
+}
+.secos{
+    color: rgb(99, 99, 99);
+    text-transform: capitalize;:
+}
+.background{
+    background-color: rgb(255, 255, 255);
+    text-transform: capitalize;
+}
+.links{
+    background-color: rgb(206, 206, 206);
+    padding: 2px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    margin-right: 250px;
+    text-transform: capitalize;
+}
+.ingredientes{
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+    margin-right: 250px;
+    text-transform: capitalize;
+}
+
+
+.preparo2{
+    border: 0px solid whitesmoke;
+    padding: 25px;
+    border-radius: 8px;
+    background-color: rgb(214, 214, 214);
+    margin-right: 250px;
+    text-transform: capitalize;
+}
+
